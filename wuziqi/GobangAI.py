@@ -1,6 +1,5 @@
 # AI五子棋
-# 作者： Charles
-# 公众号：Charles的皮卡丘
+# minmax算法+alpha-beta剪枝算法(博弈+剪枝)
 from graphics import *   #将graphics下的所有名字都导入
 
 
@@ -271,9 +270,6 @@ def run():
 	message.draw(gw)
 	gw.getMouse()
 	gw.close()
-
-
-
 
 
 if __name__ == '__main__':
