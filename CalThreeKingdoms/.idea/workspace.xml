@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a42b9d6-df7c-486e-b92a-a5994f2a84cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CalHamlet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalHamlet/CalHamlet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalStatistics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalStatistics/CalStatistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalThreeKingdoms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SevenDigitsDraw/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SevenDigitsDraw/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,10 +14,10 @@
     <session id="1896926172">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -53,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CalThreeKingdoms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="67" lean-forward="true" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+            <state relative-caret-position="264">
+              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -79,8 +73,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="90" />
-    <option name="y" value="96" />
+    <option name="x" value="-9" />
+    <option name="y" value="63" />
     <option name="width" value="1500" />
     <option name="height" value="984" />
   </component>
@@ -153,7 +147,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="96" width="1500" height="984" extended-state="0" />
+    <frame x="-9" y="63" width="1500" height="984" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494929" />
@@ -181,8 +175,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CalThreeKingdoms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="67" lean-forward="true" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        <state relative-caret-position="264">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
