@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47cfb47a-abdc-4498-95a6-632b10fe7cd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AutoTraceDraw/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoTraceDraw/AutoTraceDraw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GovRptWordCloud.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalThreeKingdoms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalThreeKingdoms/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="47cfb47a-abdc-4498-95a6-632b10fe7cd7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +12,11 @@
     <session id="380602122">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -53,9 +48,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
               <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-              <folding>
-                <element signature="e#133#145#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -93,7 +85,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,6 +96,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,7 +157,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="152" y="57" width="1745" height="984" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21403712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
